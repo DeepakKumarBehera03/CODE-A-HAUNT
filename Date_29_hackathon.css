@@ -1,0 +1,52 @@
+
+body{
+    background-color: black;
+    color:white;
+}
+#first-image-div{
+    width: 400px;
+    margin-right: 30px;
+}
+.placed{
+    display: inline-block;
+}
+.card-img-top{
+    height: 15rem;
+}
+#placed{
+    margin: 120px;
+}
+.placed-head-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    margin-left: 250px;
+    margin-top: 100px;
+    text-align: center;
+}
+.vision{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+.warning{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    text-align: center;
+}
+.card-header{
+    text-align: center;
+    
+}
+.card-warning-text{
+    color: rgb(84, 84, 12);
+    font-size: medium;
+    font-weight: bold;
+}
+#warn{
+    border: 5px solid;
+}
