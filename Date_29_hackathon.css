@@ -1,6 +1,5 @@
 
 body{
-    background-color: black;
     color:white;
 }
 #first-image-div{
@@ -49,4 +48,12 @@ body{
 }
 #warn{
     border: 5px solid;
+}
+.dark_light{
+    background-color: white;
+    border: 1px solid;
+    border-radius: 50px;
+    padding-bottom: 0px;
+    margin-left: 690px;
+    margin-top: 20px;
 }
