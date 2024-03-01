@@ -19,4 +19,8 @@ Due to less time our team only complete our basic static page include boostrap c
 the landing page and login page, signup page , apply for job page and a pricing section. 
 <br>
 <br>
+<<<<<<< HEAD
 so we need to include javascript -reactjs to achieve more functionality which i mentioned above. 
+=======
+so we need to include javascript -reactjs to achieve more functionality which i mentioned above. 
+>>>>>>> origin/main
